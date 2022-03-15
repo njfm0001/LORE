@@ -2,13 +2,13 @@
 ## Introduction
 LORE, our rule-based model, and nLORE, its neural counterpart nLORE, are locative reference extractors designed to detect and extract any kind of locative references (e.g. geopolitical entities, landforms, points of interests, traffic ways, etc.) and their surrounding locative markers (e.g. directional, distance and temporal markers) from tweets or any other piece of text. LORE works with English, Spanish and French texts whereas nLORE only work with English texts.
 
-This tool and associated research papers (see below) are the result of my my PhD thesis project, titled *A linguistically-aware computational approach to microtext location detection*[link](https://digibug.ugr.es/handle/10481/64577), defended on October 21 2020 at the University of Granada (UGR) under the PhD programme of Languages, Texts and Contexts (*Programa de Doctorado en Lenguajes, Textos y Contextos*).
+This tool and associated research papers (see below) are the result of my my PhD thesis project, titled [*A linguistically-aware computational approach to microtext location detection*](https://digibug.ugr.es/handle/10481/64577), defended on October 21 2020 at the University of Granada (UGR) under the PhD programme of Languages, Texts and Contexts (*Programa de Doctorado en Lenguajes, Textos y Contextos*).
 
 Further information about the components, pipeline, application and evaluation of LORE and nLORE can be found in the references cited below. Should you wish to have access to the datasets used in our experiments (for research purposes only), please refer to the authors to request private access to them.
 
 ## How to use this tool
 
-1. Download the precompiled application by requesting access to the file here [link](https://drive.google.com/file/d/1yWs-eeP5_23eu1aNrZWnmIWKiVgMdupI/view?usp=sharing) and decompress the zip file into a folder. Execute the exe file.
+1. Download the precompiled application by requesting access to the file [here](https://drive.google.com/file/d/1yWs-eeP5_23eu1aNrZWnmIWKiVgMdupI/view?usp=sharing) and decompress the zip file into a folder. Execute the exe file.
 
 2.  Using it is fairly intuitive: the main app window lets you upload a dataset of tweets or any other kind of dataset in txt format by clicking on the File icon and perform locative reference extraction. You can select either LORE or nLORE and the language of the dataset. Also, you can select the output format: token-based format (typically used in NER) or entity-based format. The extracted locative references will be saved onto the data/output folder in a txt file.
 
