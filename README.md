@@ -24,7 +24,7 @@ If you use nLORE in your research, please provide the following citation:
 - Fernández-Martínez, Nicolás José & Periñán-Pascual, Carlos (2021). nLORE: A Linguistically Rich Deep-Learning System for Locative-Reference Extraction in Tweets. In Engie Bashir and Mitja Luštrek (eds.), *Intelligent Environments 2021: Workshop Proceedings of the 1st International Workshop on Artificial Intelligence and Machine Learning for Emerging Topics (ALLEGET ’21)*, 243-254. IOS Press. https://doi.org/10.3233/aise210103
 
 If you use our datasets in your research, please cite the following:
-- Fernández-Martínez, Nicolás José (2022). The FGLOCTweet Corpus: An English tweet-based corpus for fine-grained location-detection tasks. *Research in Corpus Linguistics* 10/1, 117–133. https://doi.org/10.32714/ricl.10.01.06
+- Fernández-Martínez, Nicolás José (2022). The FGLOCTweet Corpus: An English tweet-based corpus for fine-grained location-detection tasks. *Research in Corpus Linguistics* 10(1), 117–133. https://doi.org/10.32714/ricl.10.01.06
 
 ## Funding
 Results from this PhD thesis project are associated with the development of the social sensor module in the research project "Planificación y gestión de recursos hídricos a partir de análisis de datos de IoT (WATERoT)" (RTC 2017-6389-5), funded by the *Ministerio de Economía, Industria y Competitividad* (MINECO), *Agencia Estatal de Investigación* (AEI) and the *Fondo Europeo de Desarrollo Regional* (FEDER).
