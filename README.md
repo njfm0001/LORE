@@ -26,6 +26,11 @@ If you use nLORE in your research, please provide the following citation:
 If you use our datasets in your research, please cite the following:
 - Fernández-Martínez, Nicolás José (2022). The FGLOCTweet Corpus: An English tweet-based corpus for fine-grained location-detection tasks. *Research in Corpus Linguistics* 10(1), 117–133. https://doi.org/10.32714/ricl.10.01.06
 
+## Applications
+Our work has already been used and cited by the following research work:
+
+- Hu, X., Zhou, Z., Sun, Y., Kersten, J., Klan, F., Fan, H., & Wiegmann, M. (2022). GazPNE2: A general place name extractor for microblogs fusing gazetteers and pretrained transformer models. *IEEE Internet of Things Journal*, 1. https://doi.org/10.1109/JIOT.2022.3150967
+
 ## Funding
 Results from this PhD thesis project are associated with the development of the social sensor module in the research project "Planificación y gestión de recursos hídricos a partir de análisis de datos de IoT (WATERoT)" (RTC 2017-6389-5), funded by the *Ministerio de Economía, Industria y Competitividad* (MINECO), *Agencia Estatal de Investigación* (AEI) and the *Fondo Europeo de Desarrollo Regional* (FEDER).
 ![logo](https://user-images.githubusercontent.com/45042730/158458975-d0554557-82c3-40c6-bb08-b68a38115268.png)
