@@ -20,7 +20,7 @@ If you use LORE in your research, please cite the following:
 - Fernández-Martínez, Nicolás José & Periñán-Pascual, Carlos. (2020). Knowledge-based rules for the extraction of complex, fine-grained locative references from tweets. *Revista Electrónica de Lingüística Aplicada* 19(1), 136-163.
 
 
-If you use nLORE, please provide the following citation:
+If you use nLORE in your research, please provide the following citation:
 - Fernández-Martínez, Nicolás José & Periñán-Pascual, Carlos (2021). nLORE: A Linguistically Rich Deep-Learning System for Locative-Reference Extraction in Tweets. In Engie Bashir and Mitja Luštrek (eds.), *Intelligent Environments 2021: Workshop Proceedings of the 1st International Workshop on Artificial Intelligence and Machine Learning for Emerging Topics (ALLEGET ’21)*, 243-254. IOS Press. https://doi.org/10.3233/aise210103
 
 If you use our datasets in your research, please cite the following:
