@@ -2,7 +2,7 @@
 ## Introduction
 LORE, our rule-based model, and nLORE, its neural counterpart nLORE, are locative reference extractors designed to detect and extract any kind of locative references (e.g. geopolitical entities, landforms, points of interests, traffic ways, etc.) and their surrounding locative markers (e.g. directional, distance and temporal markers) from tweets or any other piece of microtext. LORE works with English, Spanish and French texts whereas nLORE only works with English texts.
 
-This tool and associated research papers (see below) are the result of my my PhD thesis project, titled [*A linguistically-aware computational approach to microtext location detection*](https://digibug.ugr.es/handle/10481/64577), defended on October 21 2020 at the University of Granada (UGR) under the PhD programme of Languages, Texts and Contexts (*Programa de Doctorado en Lenguajes, Textos y Contextos*).
+This tool and associated research papers (see below) are the result of my my PhD thesis project, titled [*A linguistically-aware computational approach to microtext location detection*](https://digibug.ugr.es/handle/10481/64577), defended on October 21 2020 at the University of Granada (UGR) and obtaining *cum laude distinction*, under the PhD programme of Languages, Texts and Contexts (*Programa de Doctorado en Lenguajes, Textos y Contextos*).
 
 Further information about the components, pipeline, application and evaluation of LORE and nLORE can be found in the references cited below. Should you wish to have access to the datasets used in our experiments (for research purposes only), please refer to the authors to request private access to them.
 
