@@ -15,7 +15,7 @@ Further information about the components, pipeline, application and evaluation o
 ## How to cite this work
 Whenever you use this tool, please include the following citation(s) and add a reference to their authors:
 
-If you use LORE in your research, please cite the following:
+If you use LORE in your research or use our knowledge-based rules for location extraction, please cite the following:
 - Fernández-Martínez, Nicolás José & Periñán-Pascual, Carlos. (2021). LORE: A model for the detection of fine-grained locative references in tweets. *Onomazein* 52, 195–225. https://doi.org/10.7764/onomazein.52.11
 - Fernández-Martínez, Nicolás José & Periñán-Pascual, Carlos. (2020). Knowledge-based rules for the extraction of complex, fine-grained locative references from tweets. *Revista Electrónica de Lingüística Aplicada* 19(1), 136-163.
 
